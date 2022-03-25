@@ -4,7 +4,7 @@ const userProfile = {
     country: "Hungary"
 }
 
-
+//Régi metódus
 //const name = userProfile.name;
 //const age = userProfile.age;
 
